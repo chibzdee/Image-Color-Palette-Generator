@@ -4,7 +4,9 @@ The Image Color Palette Generator is a web application that allows users to uplo
 
 The application displays the uploaded image and the extracted colors with their hex codes.
 
-Libraries and Frameworks Used
+Libraries and Frameworks Used:
+
+
     Flask: For setting up the web server, handling requests, and rendering HTML templates.
     Werkzeug: For secure handling of file uploads.
     WTForms and Flask-WTF: For creating and validating web forms, and handling file uploads.
