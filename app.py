@@ -1,4 +1,4 @@
-rom flask import Flask, render_template, request, send_from_directory
+from flask import Flask, render_template, request, send_from_directory
 from flask_wtf import FlaskForm
 from wtforms import SubmitField, FileField
 from werkzeug.utils import secure_filename
